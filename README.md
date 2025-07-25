@@ -1,4 +1,6 @@
 # FNF Mobile Basetools
+DISCLAIMER: I am not Lily, I somehow managed to download her repo months before she deleted her account and MobilePorting's account.
+
 Credits: [MAJigsaw77](https://github.com/MAJigsaw77)
 
 this repo is based on his mobile porting repo, this is here for easier access, modifications and using his old deleted controls select menu
